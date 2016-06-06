@@ -1,0 +1,9 @@
+# git ignore
+
+curlzip/
+nano/
+x64/
+x86/
+
+bin/*.udm
+bin/*.ini
